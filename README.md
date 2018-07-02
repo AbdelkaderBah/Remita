@@ -34,17 +34,16 @@ URL : This URL is used to be a callback url when a form is submited (Auto genera
 download this package and put it in a folder named Remita and .
 
 ### Tips
-template are stored in template folder you can edit it their but don't changed {{@vairable}}
+template are stored in template folder you can edit it their but don't change {{@vairable}}
 You can handle errors with $Remita->status('errors')
 
 ### Future plans 
-If I had time I will complete this work now I just see its a 
-
+Add more Remita API requests
 
 --------------------------------------
 Package : 	Remita
 
 Author  : 	Abdelakder <jr.abdelkader@gmail.com>
 
-realise date    : 	31/07/2015
+release date    : 	31/07/2015
 
