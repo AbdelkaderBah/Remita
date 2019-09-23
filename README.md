@@ -40,14 +40,9 @@ download this package and put it in a folder named Remita and .
 template are stored in template folder you can edit it their but don't changed {{@vairable}}
 You can handle errors with $Remita->status('errors')
 
-### Future plans 
-If I had time I will complete this work now I just see its a 
-
 
 --------------------------------------
 Package : 	Remita
-
-Author  : 	Abdelakder <jr.abdelkader@gmail.com>
 
 realise date    : 	31/07/2015
 
