@@ -1,7 +1,10 @@
-Remita - PHP library to make payments with Remita
+Remita - PHP library to make payments with Remita (Unofficial)
 ==============================
+
+**This library is no longer maintained**
  
  ![alt tag](http://www.remita.net/developers/assets/images/remita-payment-logo-horizonal.png)
+
 
 
 How does Remita Integration work
